@@ -39,7 +39,7 @@ We use a method agil similar to kanban with consists in 3 standarts:
 
 Work in your branch and just when your work is done try a pull request.
 
-# Code Review Checklist(Version control)
+## Code Review Checklist
 
 The review needs to be done at 3 levels:
 
