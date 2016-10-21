@@ -37,7 +37,15 @@ We use a method agil similar to kanban with consists in 3 standarts:
 
 # Version control
 
-Work in your branch and just when your work is done try a pull request.
+Work in your branch and just when your work is done try a pull request, every pull request needs a description explain whats change and why.
+
+Ex: 
+
+1. What is changed?
+Text example, text example, Text example, text example, Text example, text example, Text example, text example, Text example, text example.
+
+2. Why?
+Text example, text example, Text example, text example, Text example, text example, Text example, text example, Text example, text example.
 
 ## Code Review Checklist
 
