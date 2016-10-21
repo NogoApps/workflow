@@ -41,11 +41,12 @@ Work in your branch and just when your work is done try a pull request.
 
 # Code Review Checklist(Version control)
 
-The review needs to be do at 3 levels:
+The review needs to be done at 3 levels:
 
 1. Codacy test.
 2. Build test and UI test.
 3. Comparation test with git or github.
+4. Column "doing" and "review" need make these tests.
 
 ## General
 
@@ -69,7 +70,7 @@ The codacy make some automatic reviews and give us a better look in the code.
 
 You can to analyze in local git the diferences with the cheats below this topic and on github when create a pull request.
 
-## Cheats
+## Cheats to compare and logs
 
 - git diff (show the changes)
 - git diff HEAD
