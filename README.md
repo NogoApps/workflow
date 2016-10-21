@@ -61,8 +61,11 @@ The review needs to be done at 3 levels:
 1. Codacy test.
 2. Build test and UI test.
 3. Comparation test with git or github.
-4. Column "doing" and "review" need make these tests.
-5. The person who make the review can't be the same who did the code.
+
+More details:
+
+- Column "doing" and "review" need make these tests.
+- The person who make the review can't be the same who did the code.
 
 ## General
 
