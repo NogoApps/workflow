@@ -26,7 +26,7 @@ We use a method agil similar to kanban with consists in 3 standarts:
 
 # Trello(Organization)
 
-1. You can use Trello to create a workflow and organize the tasks and the time. 
+1. You can use Trello to create a workflow and organize the tasks and the team. 
 2. Every task have to be possible done in more of 2 hours and less the 6 hours if not, split or paste some tasks in one task.
 3. Can go just forward and all the columns can have just 6 tasks at once.
 4. We goal is min of 6 tasks weekly.
