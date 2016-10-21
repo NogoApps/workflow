@@ -13,6 +13,11 @@ We use a method agil similar to kanban with consists in 3 standarts:
 # Slack(Comunication)
 
 - brainstorm_10min: Weekly meeting with trello, corrello and codacy in 10min.
+
+1. Issues
+2. Next features
+3. Corrello sprints
+
 - change_request: If you want ask for  a change in the project about something in progress.
 - general: general subjects.
 - github: Integration with github.
