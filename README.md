@@ -1,24 +1,69 @@
-# workflow
-Workflow of our company
+# Workflow
 
-# Git cheats
+## Overview
 
-1. git diff (show the changes)
-2. git diff HEAD
-3. git diff --word-diff(show just the changes and not the all line)
-4. git diff --staged(show the changes in stage area)
-5. git --stat(show just the files changed)
-6. git checkout(change branchs)
-7. git log(show commits from autors with dates)
-8. git log --oneline(show just the descriptions of commits)
-9. git log --stat(see the files that changes too)
+We use a method agil similar to kanban with consists in 3 standarts:
 
-# Git possible mistakes
+1. Comunication.
+2. Organization.
+3. Version control.
+
+# Slack(Comunication)
+
+- brainstorm: Weekly meeting.
+- change_request: If you want ask for  a change in the project about something in progress.
+- general: general subjects.
+- github: Integration with github.
+- reviews_codacy: New reviews from codacy.
+- visitors_slaask: Chat room to visitors of our website.
+
+# Jira(Organization)
+
+You can use Jira to create a workflow and organize the tasks and time. 
+Every task can go just forward and all the columns can have just 6 tasks at once.
+
+- Backlog: Here we discussed our ideas, difficulties and plans. One times a week we make the brainstorm meeting.
+- To do: Here we have all the approved tasks to do with descriptions.
+- Doing(testing): Here shows what is in progress.
+- Review(testing): Here we analyze the code and 
+- Done: The task is finished.
+
+# Code Review Checklist(Version control)
+
+## General
+
+- The code works?
+- The code is clean?
+- The code respect design patterns, material design and android conventions?
+- There is something redundant or unnecessary?
+- The project is modulate with loose coupling?
+- Some log or debug is unnecessary?
+- If the project needs some import on gradle, virtual machine and etc... the whole team needs be informed.
+- The code comented was removed?
+- The build works?
+- The codacy see some problem in your code that needs to be fixed?
+
+# Git
+
+## Cheats
+
+- git diff (show the changes)
+- git diff HEAD
+- git diff --word-diff(show just the changes and not the all line)
+- git diff --staged(show the changes in stage area)
+- git --stat(show just the files changed)
+- git checkout(change branchs)
+- git log(show commits from autors with dates)
+- git log --oneline(show just the descriptions of commits)
+- git log --stat(see the files that changes too)
+
+## Possible mistakes
 
 1. If you have a repository inside your repository.
 2. If you don't have access to the key of the repository.
 3. If the remote repository have changes to pull.
+4. If you are try to push to master instead your branch.
 
-# More git cheats:![alt tag](http://i.imgur.com/Ia1S7R8.png)
+## More git cheats:![alt tag](http://i.imgur.com/Ia1S7R8.png)
 
 
