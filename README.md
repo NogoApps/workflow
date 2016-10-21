@@ -17,10 +17,15 @@ We use a method agil similar to kanban with consists in 3 standarts:
 - reviews_codacy: New reviews from codacy.
 - visitors_slaask: Chat room to visitors of our website.
 
-# Jira(Organization)
+# Trello(Organization)
 
-You can use Jira to create a workflow and organize the tasks and time. 
-Every task can go just forward and all the columns can have just 6 tasks at once.
+1. You can use Trello to create a workflow and organize the tasks and time. 
+2. Every task have to be possible done in more of 2 hours and less the 6 hours.
+3. Can go just forward and all the columns can have just 6 tasks at once.
+4. We goal is min of 6 tasks weekly.
+5. If some task is static more than 2 days it became a priority and go to discuss on brainstorm weekly.
+
+## Columns:
 
 - Backlog: Here we discussed our ideas, difficulties and plans. One times a week we make the brainstorm meeting.
 - To do: Here we have all the approved tasks to do with descriptions.
@@ -34,6 +39,7 @@ Every task can go just forward and all the columns can have just 6 tasks at once
 
 - The code works?
 - The code is clean?
+- The the code is encapsuled and OO?
 - The code respect design patterns, material design and android conventions?
 - There is something redundant or unnecessary?
 - The project is modulate with loose coupling?
@@ -43,7 +49,13 @@ Every task can go just forward and all the columns can have just 6 tasks at once
 - The build works?
 - The codacy see some problem in your code that needs to be fixed?
 
+## Codacy
+
+The codacy make some automatic reviews and give us a better look in the code. Yu
+
 # Git
+
+You can to analyze in local git the diferences with the cheats below this topic and on github when create a pull request.
 
 ## Cheats
 
