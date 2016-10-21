@@ -76,9 +76,10 @@ More details:
 - There is something redundant or unnecessary?
 - The project is modulate with loose coupling?
 - Some log or debug is unnecessary?
-- If the project needs some import on gradle, virtual machine and etc... the whole team needs be informed.
+- If the project needs some import in gradle, virtual machine and etc... the whole team needs be informed.
 - The code comented was removed?
 - The build works?
+- The UI is working in all devices that should?
 - The codacy see some problem in your code that needs to be fixed?
 
 ## Codacy
