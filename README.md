@@ -47,9 +47,11 @@ Work in your branch and just when your work is done try a pull request, every pu
 Ex: 
 
 1. What is changed?
+
 Text example, text example, Text example, text example, Text example, text example, Text example, text example, Text example, text example.
 
 2. Why?
+
 Text example, text example, Text example, text example, Text example, text example, Text example, text example, Text example, text example.
 
 ## Code Review Checklist
