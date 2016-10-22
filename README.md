@@ -41,7 +41,7 @@ We use a method similar to kanban with consists in 3 standarts:
  6. We can see in pulse and graphs informations about our issues and pulls.
  7. When you make a review in an issue you can use the emoji "like" or "dislike" to symbolize what you think and can comment along the updates of the issue.
 
-## Columns:
+## Columns
 
 - Backlog: Here we discussed our ideas, difficulties and plans. One times a week we make the brainstorm meeting.
 - To do: Here we have all the approved tasks(issues) to do with descriptions, labels, assigns and milestone.
