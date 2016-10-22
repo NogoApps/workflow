@@ -46,9 +46,9 @@ We use a method agil similar to kanban with consists in 3 standarts:
 ## Columns:
 
 - Backlog: Here we discussed our ideas, difficulties and plans. One times a week we make the brainstorm meeting.
-- To do: Here we have all the approved tasks to do with descriptions.
+- To do: Here we have all the approved tasks(issues) to do with descriptions, labels, assigns and milestone.
 - Doing(testing): Here shows what is in progress.
-- Review(testing): Here we analyze the code and 
+- Review(testing): Here analyze the code when receive a pull request.
 - Done: The task is finished.
 
 # Version control
@@ -69,9 +69,10 @@ Text example, text example, Text example, text example, Text example, text examp
 
 The review needs to be done at 3 levels:
 
-1. Codacy test.
-2. Build test and UI test.
-3. Comparation test with git or github.
+1. Receive a pull request.
+2. Codacy test.
+3. Build test and UI test.
+4. Comparation test with git or github.
 
 More details:
 
