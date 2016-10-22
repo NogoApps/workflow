@@ -88,7 +88,7 @@ More details:
 - The project is modulate with loose coupling?
 - All the methods and variables are commented or with explicit scope.
 - Some log or debug is unnecessary?
-- If the project needs some import in gradle, virtual machine and etc... the whole team needs be informed.
+- If the project needs some import in gradle, virtual machine and etc... the whole team needs be informed and create a documentation.
 - The code comented was removed?
 - The build works?
 - The UI is working in all devices that should?
