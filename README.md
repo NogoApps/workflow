@@ -14,9 +14,9 @@ We use a method similar to kanban with consists in 3 standarts:
 
 - brainstorm_10min: Weekly meeting with github projects, github issues and codacy in 10min.
 
-1. Issues with label "stuck"
-2. Sprints
-3. Next features
+ 1. Issues with label "stuck"
+ 2. Sprints
+ 3. Next features
 
 - change_request: If you want ask for  a change in the project about something in progress.
 - general: general subjects.
