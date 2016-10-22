@@ -29,7 +29,7 @@ We use a method agil similar to kanban with consists in 3 standarts:
 1. Cards
  1. You can use projects to create a workflow and organize the tasks and the team in notes.
  2. Every task have to be possible done in more of 2 hours and less the 6 hours if not, split or paste some tasks in one task.
- 3. Can go just forward and all the columns can have just 6 tasks at once.
+ 3. Can go just forward(pulled to next column) and all the columns can have just 6 tasks at once.
  4. Every card title needs to have the current date.
  5. We goal is min of 6 tasks weekly.
  6. Every friday we clean the column done.
@@ -37,7 +37,7 @@ We use a method agil similar to kanban with consists in 3 standarts:
 2. Issues
  1. Every note you create have to be convert in an issue when you put in the column "To do" and completed the data.
  2. The issue data is assign(person responsible), milestone(stage of the project), label(type) and description.
- 3. Stuck label is some task is static more than 3 days in the same column or something was not approved in the review, what gets priority and the team discuss in slack.
+ 3. Stuck label is some task is static more than 3 days in the same column or something was not approved in the review, what gets priority and the team discuss in slack. When you solve the issue stucked change label stuck to priority.
  4. Feature, bug and priority are the others types.
  5. Every issue have to become a commit in your branch.
  6. We can see in pulse and graphs informations about our issues and pulls.
