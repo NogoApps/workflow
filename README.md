@@ -36,11 +36,12 @@ We use a method agil similar to kanban with consists in 3 standarts:
  7. Every time i change a card of column to another column i have to change the date to the current.
 2. Issues
  1. Every note you create have to be convert in an issue when you put in the column "To do" and completed the data.
- 2. The issue needs have assign(person responsible), milestone(stage of project), label(type) and description.
+ 2. The issue data is assign(person responsible), milestone(stage of project), label(type) and description.
  3. Stuck label is some task is static more than 3 days in the same column or something was not approved in the review, what gets priority and the team discuss in slack.
  4. Feature, bug and priority are the others types.
- 5. We can see in pulse and graphs informations about our issues and pulls.
- 6. When you make a review in an issue you can use the emoji "like" or "dislike" to symbolize what you think and can comment along the updates of the issue.
+ 5. Every issue have to become a commit in your branch.
+ 6. We can see in pulse and graphs informations about our issues and pulls.
+ 7. When you make a review in an issue you can use the emoji "like" or "dislike" to symbolize what you think and can comment along the updates of the issue.
 
 ## Columns:
 
