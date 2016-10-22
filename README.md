@@ -4,7 +4,7 @@ Nogo apps workflow documentation.
 
 ## Overview
 
-We use a method agil similar to kanban with consists in 3 standarts:
+We use a method similar to kanban with consists in 3 standarts:
 
 1. Comunication.
 2. Organization.
