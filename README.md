@@ -14,7 +14,7 @@ We use a method agil similar to kanban with consists in 3 standarts:
 
 - brainstorm_10min: Weekly meeting with github projects, github issues and codacy in 10min.
 
-1. Issues
+1. Issues stuck
 2. Sprints
 3. Next features
 
