@@ -86,6 +86,7 @@ More details:
 - The code respect design patterns, material design and android conventions?
 - There is something redundant or unnecessary?
 - The project is modulate with loose coupling?
+- All the methods and variables are commented or with explicity scope.
 - Some log or debug is unnecessary?
 - If the project needs some import in gradle, virtual machine and etc... the whole team needs be informed.
 - The code comented was removed?
