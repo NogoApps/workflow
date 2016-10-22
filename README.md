@@ -13,11 +13,9 @@ We use a method similar to kanban with consists in 3 standarts:
 # Slack(Comunication)
 
 - brainstorm_10min: Weekly meeting with github projects, github issues and codacy in 10min.
-
  1. Issues with label "stuck"
  2. Sprints
  3. Next features
-
 - change_request: If you want ask for  a change in the project about something in progress.
 - general: general subjects.
 - github: Integration with github.
@@ -26,7 +24,7 @@ We use a method similar to kanban with consists in 3 standarts:
 
 # Github projects(Organization)
 
-1. Cards
+- Cards
  1. You can use projects to create a workflow and organize the tasks and the team in notes.
  2. Every task have to be possible done in more of 2 hours and less the 6 hours if not, split or paste some tasks in one task.
  3. Can go just forward(pulled to next column) and all the columns can have just 6 tasks at once.
@@ -34,7 +32,7 @@ We use a method similar to kanban with consists in 3 standarts:
  5. We goal is min of 6 tasks weekly.
  6. Every friday we clean the column done.
  7. Every time i change a card of column to another column i have to change the date to the current.
-2. Issues
+- Issues
  1. Every note you create have to be convert in an issue when you put in the column "To do" and completed the data.
  2. The issue data is assign(person responsible), milestone(stage of the project), label(type) and description.
  3. Stuck label is some task is static more than 3 days in the same column or something was not approved in the review, what gets priority and the team discuss in slack. When you solve the issue stucked change label stuck to priority.
