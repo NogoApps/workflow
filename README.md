@@ -73,6 +73,7 @@ The review needs to be done at 3 levels:
 2. Codacy test.
 3. Build test and UI test.
 4. Comparation test with git or github.
+5. To approve(change to column done) or disapprove(add label "stuck").
 
 More details:
 
