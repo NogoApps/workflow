@@ -48,7 +48,7 @@ We use a method similar to kanban with consists in 3 standarts:
 - To do: Here we have all the approved tasks(issues) to do with descriptions, labels, assigns and milestone.
 - Doing(testing): Here shows what is in progress.
 - Done: The task is finished and now can wait for review.
-- Review(testing): Here analyze the code when receive a pull request and make coments at lines, create a review and discuss about changes. When the review is complete close the issue and erase the issue of the column.
+- Review(testing): Here analyze the code when receive a pull request and make coments at lines, create a review and discuss about changes, request changes or approve with a like icon. When the review is complete close the issue and erase the issue of the column.
 
 
 # Version control
