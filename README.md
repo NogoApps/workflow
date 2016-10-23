@@ -103,6 +103,8 @@ The codacy make some automatic reviews and give us a better look in the code.
 
 You can to analyze in local git the diferences with the cheats below this topic and on github when create a pull request.
 
+On github you can make comments at lines of the code, only use git if you need an analyzes deeper.
+
 ## Cheats to compare and logs
 
 - git diff (show the changes)
