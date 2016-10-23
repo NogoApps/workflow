@@ -39,7 +39,8 @@ We use a method similar to kanban with consists in 3 standarts:
  4. Feature, bug and priority are the others types.
  5. Every issue have to become a commit in your branch.
  6. We can see in pulse and graphs informations about our issues and pulls.
- 7. When you make a review in an issue you can use the emoji "like" or "dislike" to symbolize what you think and can comment along the updates of the issue.
+ 7. When you make a review in an issue you can use the emoji "like" or "dislike"(this needs a comment) to symbolize what you think and can comment along the updates of the issue.
+ 8. When we delete issues on friday from the column "done" we need to close them.
 
 ## Columns
 
@@ -47,7 +48,7 @@ We use a method similar to kanban with consists in 3 standarts:
 - To do: Here we have all the approved tasks(issues) to do with descriptions, labels, assigns and milestone.
 - Doing(testing): Here shows what is in progress.
 - Review(testing): Here analyze the code when receive a pull request.
-- Done: The task is finished.
+- Done: The task is finished and every friday this column needs to be clean and the issues closed.
 
 # Version control
 
