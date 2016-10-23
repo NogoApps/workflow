@@ -40,7 +40,7 @@ We use a method similar to kanban with consists in 3 standarts:
  5. Every issue have to become a commit in your branch.
  6. We can see in pulse and graphs informations about our issues and pulls.
  7. When you make a review in an issue you can use the emoji "like" or "dislike"(this needs a comment) to symbolize what you think and can comment along the updates of the issue.
- 8. When we delete issues on friday from the column "done" we need to close them.
+ 8. When we delete issues on friday from the column "done", we need to close them.
 
 ## Columns
 
