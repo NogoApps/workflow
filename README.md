@@ -47,8 +47,9 @@ We use a method similar to kanban with consists in 3 standarts:
 - Backlog: Here we discussed our ideas, difficulties and plans. One times a week we make the brainstorm meeting.
 - To do: Here we have all the approved tasks(issues) to do with descriptions, labels, assigns and milestone.
 - Doing(testing): Here shows what is in progress.
-- Review(testing): Here analyze the code when receive a pull request.
-- Done: The task is finished and every friday this column needs to be clean and the issues closed.
+- Done: The task is finished and now can wait for review.
+- Review(testing): Here analyze the code when receive a pull request and make coments at lines, create a review and discuss about changes. When the review is complete close the issue and erase the issue of the column.
+
 
 # Version control
 
