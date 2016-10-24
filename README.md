@@ -102,9 +102,9 @@ The codacy make some automatic reviews and give us a better look in the code.
 
 # Git
 
-You can to analyze in local git the diferences with the cheats below this topic and on github when create a pull request.
-
-On github you can make comments at lines of the code, only use git if you need an analyzes deeper.
+You can to analyze in local git the diferences with the cheats below this topic and on github(priority) when create a pull request.
+Make the review on github is the best way to create a public review. You can make comments at lines of the code, only use git if you need an analyzes deeper.
+Don't forget make always a pull to local repository after the push. To you update the remote master before you update the local master.
 
 ## Cheats to compare and logs
 
