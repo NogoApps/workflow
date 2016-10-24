@@ -127,4 +127,6 @@ On github you can make comments at lines of the code, only use git if you need a
 
 ## More git cheats:![alt tag](http://i.imgur.com/Ia1S7R8.png)
 
+##PS: Our project page(with doenload and overview) will be available with github pages and our blog is in medium.
+
 
