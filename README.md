@@ -98,7 +98,7 @@ More details:
 
 ## Codacy
 
-The codacy make some automatic reviews and give us a better look in the code.
+The codacy make some automatic reviews and give us a better look in the code and Travis integration make the build online.
 
 # Git
 
