@@ -128,6 +128,6 @@ Don't forget make always a pull to local repository after the push. To you updat
 ## More git cheats:![alt tag](http://i.imgur.com/Ia1S7R8.png)
 
 ## PS: Our project page(with download and overview) will be available with github pages and our blog is in medium.
-## PS2: Prototypes can be made on [InVIsion](https://projects.invisionapp.com) site. 
+## PS2: Prototypes can be made on [InVIsion](https://projects.invisionapp.com) or [MarvelApp](https://marvelapp.com) site. 
 
 
